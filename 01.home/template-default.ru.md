@@ -32,4 +32,4 @@ content:
 
 {% include 'includes/blog_list.html.twig' %}
 
-### [читать все сообщения: {{ page.find('/blog').children|length }}](/blog)
+### [читать все записи: {{ page.find('/blog').children|length }}](/blog)
