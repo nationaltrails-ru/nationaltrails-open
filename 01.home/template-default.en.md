@@ -33,4 +33,4 @@ The trail passes along the rivers Volga, Kama, Tagil, Tobol, Irtysh, Ob, Tom, Ab
 
 {% include 'includes/blog_list.html.twig' %}
 
-### [read all posts {{ page.find('/blog').children|length }}](/blog)
+### [read all posts: {{ page.find('/blog').children|length }}](/blog)
