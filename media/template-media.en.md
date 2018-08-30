@@ -1,9 +1,9 @@
 ---
-title: Images
+title: Media
 content:
     items: '@self.children'
     order:
-        by: date
+        by: folder
         dir: desc
     limit: 10
     pagination: true
