@@ -5,6 +5,6 @@ content:
     order:
         by: folder
         dir: desc
-    limit: 10
-    pagination: true
+    limit: 0
+    pagination: false
 ---
