@@ -3,7 +3,7 @@ title: Изображения
 content:
     items: '@self.children'
     order:
-        by: date
+        by: default
         dir: desc
     limit: 0
     pagination: false
