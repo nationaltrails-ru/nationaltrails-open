@@ -42,7 +42,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
 
 
-# Legal Code {#legal-code}
+# Legal Code <a id="legal-code"></a>
 
 Source — [creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode?target=_blank).
 

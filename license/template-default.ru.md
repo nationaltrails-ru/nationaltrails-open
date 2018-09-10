@@ -48,7 +48,7 @@ Creative Commons — не юридическая фирма и не оказыв
 
 
 
-# Юридический текст {#legal-code}
+# Юридический текст <a id="legal-code"></a>
 
 Источник — [creativecommons.org/licenses/by-sa/4.0/legalcode.ru](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru?target=_blank).
 

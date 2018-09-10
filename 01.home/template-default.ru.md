@@ -34,14 +34,12 @@ content:
 
 <ul id="blogcontent">
 {% for child in collection %}
-	<li>
-	
+	<li>	
 		<p class="intro"><small>{{ child.header.publish_date|localizeddate('long', 'short', LANG, 'UTC', NULL) }} UTC</small></p>
 
 		<h2><a href="{{ child.url }}">{{ child.title }}</a></h2>
 
 		{{ child.content }}
-
 	</li>
 {% endfor %}
 </ul>
