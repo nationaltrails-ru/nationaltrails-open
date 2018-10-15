@@ -7,40 +7,28 @@ taxonomy:
         - menu_footer
 ---
 
-# Areas of Action
+## Outdoor
 
-
-## [Outdoor Contribute](outdoor)
-
-* Научные экспедиции — археологические, исторические, биологические.
-* Полевые исследования территорий.
-* Изучения погодных условий.
-* Сквозные прохождения.
+* Исследование территорий из раздела [Researches](/researches).
+* Определение типовых графиков движения по Тропам.
 * Определение возможностей экипировки.
 
-[More detailed](outdoor)
 
+## Indoor
 
-## [Indoor Contribute](indoor)
+### Creating
 
-* Обработка результатов полевых исследований.
-* Изучение открытых данных — карт, литературы, отчётов.
-* Построение предварительных версий маршрутов.
+* Построение предварительных версий Троп.
 * Проектирование и изготовление экипировки.
 
-[More detailed](indoor)
+### Data
 
-
-## Media Contribute
-
+* Систематизация существующих Троп в Заповедниках и Национальных парках.
 * Подготовка к публикации результатов экспедиций, исследований, экспериментов.
-* Обработка треков, медиа-данных.
-* Перевод существующих материалов на дополнительные языки.
+* Перевод публикаций на дополнительные языки.
 
 
-## [Web Contribute](web)
+### Web
 
-* Модернизация публичного контента [nationaltrails.ru](/) через: [github.com/nationaltrails-ru/nationaltrails-pages](https://github.com/nationaltrails-ru/nationaltrails-pages?target=_blank).
+* Модернизация публичного контента [nationaltrails.ru](/) через: [github.com/nationaltrails-ru/nationaltrails-pages](https://github.com/nationaltrails-ru/nationaltrails-pages).
 * Модернизация backend [nationaltrails.ru](/) через: доступ по запросу на [web@nationaltrails.ru](mailto:web@nationaltrails.ru).
-
-[More detailed](web)
