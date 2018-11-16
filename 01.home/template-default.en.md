@@ -10,7 +10,7 @@ content:
     items:
         '@page': /blog
     order:
-        by: publish_date
+        by: folder
         dir: desc
     limit: 5
     pagination: false
@@ -36,7 +36,7 @@ The trail passes along the rivers Volga, Kama, Tagil, Tobol, Irtysh, Ob, Tom, Ab
 <ul id="blogcontent">
 {% for child in collection %}
 	<li>	
-		<p class="intro"><small>{{ child.header.publish_date|localizeddate('long', 'short', LANG, 'UTC', NULL) }} UTC</small></p>
+		<p class="intro"><small>{{ child.slug|regex_replace('/\-([0-9]{2})$/', ':$1')|localizeddate('long', 'short', 'en', 'UTC') }} UTC</small></p>
 
 		<h2><a href="{{ child.url }}">{{ child.title }}</a></h2>
 
