@@ -9,7 +9,7 @@ content:
     items:
         - '@self.children'
     order:
-        by: publish_date
+        by: folder
         dir: desc
     limit: 10
     pagination: true
