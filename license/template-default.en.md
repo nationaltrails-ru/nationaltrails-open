@@ -1,6 +1,8 @@
 ---
 title: 'Text of Creative Commons Attribution-ShareAlike 4.0 International License'
 menu: 'License'
+metadata:
+    robots: 'noindex, nofollow'
 ---
 
 ## Commons Deed

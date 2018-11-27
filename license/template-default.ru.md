@@ -1,6 +1,8 @@
 ---
 title: 'Текст лицензии Creative Commons Attribution-ShareAlike 4.0 Международная'
 menu: 'Лицензия'
+metadata:
+    robots: 'noindex, nofollow'
 ---
 
 Содержание сайта некоммерческой организации [АНО «Национальные Тропы» России](https://nationaltrails.ru) доступно по свободной лицензии Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Вы можете копировать, модифицировать, использовать в коммерческих целях и брать за основу для создания других произведений содержание сайта АНО «Национальные Тропы» России.
