@@ -5,7 +5,7 @@ menu: 'License'
 
 ## Commons Deed
 This is a human-readable summary of (and not a substitute for) the full license [below](#legal-code).<br>
-Source — [creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecommons.org/licenses/by-sa/4.0/deed.en?target=_blank).
+Source — [creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecommons.org/licenses/by-sa/4.0/deed.en?target=_blank&rel=nofollow).
 
 
 
@@ -45,7 +45,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
 # Legal Code <a id="legal-code"></a>
 
-Source — [creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode?target=_blank).
+Source — [creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode?target=_blank&rel=nofollow).
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
@@ -53,7 +53,7 @@ Creative Commons Corporation (“Creative Commons”) is not a law firm and does
 
 ### Using Creative Commons Public Licenses
 
-**Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason – for example, because of any applicable exception or limitation to copyright – then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees?target=_blank).
+**Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason – for example, because of any applicable exception or limitation to copyright – then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees?target=_blank&rel=nofollow).
 
 
 
@@ -69,7 +69,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 * b. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
-* c. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](https://creativecommons.org/compatiblelicenses?target=_blank), approved by Creative Commons as essentially the equivalent of this Public License.
+* c. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](https://creativecommons.org/compatiblelicenses?target=_blank&rel=nofollow), approved by Creative Commons as essentially the equivalent of this Public License.
 
 * d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
@@ -228,6 +228,6 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 
 ## Creative Commons Notice
 
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode?target=_blank). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](https://creativecommons.org/policies?target=_blank), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode?target=_blank&rel=nofollow). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](https://creativecommons.org/policies?target=_blank&rel=nofollow), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
-Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org?target=_blank).
+Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org?target=_blank&rel=nofollow).
