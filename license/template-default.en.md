@@ -10,7 +10,6 @@ This is a human-readable summary of (and not a substitute for) the full license 
 Source — [creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecommons.org/licenses/by-sa/4.0/deed.en?target=_blank&rel=nofollow).
 
 
-
 ## You are free to:
 
 **Share** — copy and redistribute the material in any medium or format.
@@ -18,7 +17,6 @@ Source — [creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecomm
 **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
-
 
 
 ## Under the following terms:
@@ -30,12 +28,12 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 
-
 ## Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
 
 ## Disclaimer
 
@@ -52,7 +50,6 @@ Source — [creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativeco
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
 
-
 ### Using Creative Commons Public Licenses
 
 **Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason – for example, because of any applicable exception or limitation to copyright – then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees?target=_blank&rel=nofollow).
@@ -62,7 +59,6 @@ Creative Commons Corporation (“Creative Commons”) is not a law firm and does
 # Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
-
 
 
 ### 1. Definitions.
@@ -93,7 +89,6 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 *
 m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
-
 
 
 ### 2. Scope.
@@ -130,7 +125,6 @@ m. **You** means the individual or entity exercising the Licensed Rights under t
 	To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
 
-
 ### 3. License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
@@ -164,7 +158,6 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 	You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
 
-
 ### 4. Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
@@ -179,7 +172,6 @@ c. You must comply with the conditions in Section 3(a) if You Share all or a sub
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 
-
 ### 5. Disclaimer of Warranties and Limitation of Liability.
 
 * a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
@@ -188,7 +180,6 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 
 *
 c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
-
 
 
 ### 6. Term and Termination.
@@ -205,7 +196,6 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 
 *
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
-
 
 
 ### 7. Other Terms and Conditions.
