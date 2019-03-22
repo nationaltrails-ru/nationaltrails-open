@@ -17,9 +17,9 @@ taxonomy:
 
 <p>{{ "SITE.CONTACTS.ADDRESS"|t }}</p>
 
-[Устав (pdf)](ustav.pdf?target=blank),
-[ОГРН (pdf)](ogrn.pdf?target=blank),
-[ИНН (pdf)](inn.pdf?target=blank).
+[Устав](ustav-nonprofit-nationaltrails-russia.pdf?target=blank),
+[ОГРН](ogrn-nonprofit-nationaltrails-russia.pdf?target=blank),
+[ИНН](inn-nonprofit-nationaltrails-russia.pdf?target=blank).
 
 
 
