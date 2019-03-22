@@ -13,7 +13,7 @@ Nonprofit organization for the creation and development of the National Trails S
 
 <p>{{ "SITE.ABOUT_ID"|t }}</p>
 
-<p>{{ "SITE.CONTACTS.PHONE"|t }}</p>
+<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a></p>
 
 <p>{{ "SITE.CONTACTS.ADDRESS"|t }}</p>
 
