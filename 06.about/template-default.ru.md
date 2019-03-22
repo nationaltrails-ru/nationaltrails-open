@@ -11,11 +11,11 @@ taxonomy:
 
 Автономная некоммерческая организация становления и развития Системы Национальных Троп (АНО «Национальные Тропы») создана 10 октября 2017 года. Местонахождение — наукоград Фрязино Московской области, Россия. Учредитель — Кирилл Аристов ([kirillaristov.com](https://kirillaristov.com)).
 
-{{ "SITE.ABOUT.ID"|t }}
+<p>{{ "SITE.ABOUT_ID"|t }}</p>
 
-{{ "SITE.CONTACTS.PHONE"|t }}
+<p>{{ "SITE.CONTACTS.PHONE"|t }}</p>
 
-{{ "SITE.CONTACTS.ADDRESS"|t }}
+<p>{{ "SITE.CONTACTS.ADDRESS"|t }}</p>
 
 [Устав (pdf)](ustav.pdf?target=blank),
 [ОГРН (pdf)](ogrn.pdf?target=blank),

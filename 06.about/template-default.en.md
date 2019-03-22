@@ -11,11 +11,11 @@ We create the National Trails System. We explore the Rivers and Territories of R
 
 Nonprofit organization for the creation and development of the National Trails System «National Trails» was formed October 10, 2017, the location of the organization headquarters in science city Fryazino, Moscow region, Russia. The Founder – Kirill Aristov ([kirillaristov.com](https://kirillaristov.com)).
 
-{{ "SITE.ABOUT.ID"|t }}
+<p>{{ "SITE.ABOUT_ID"|t }}</p>
 
-{{ "SITE.CONTACTS.PHONE"|t }}
+<p>{{ "SITE.CONTACTS.PHONE"|t }}</p>
 
-{{ "SITE.CONTACTS.ADDRESS"|t }}
+<p>{{ "SITE.CONTACTS.ADDRESS"|t }}</p>
 
 [Articles (pdf)](ustav.pdf?target=blank),
 [Registration ID (pdf)](ogrn.pdf?target=blank),
