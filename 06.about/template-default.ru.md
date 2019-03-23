@@ -16,9 +16,9 @@ taxonomy:
 <p>Базовый лагерь: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
 {{ "SITE.ABOUT_ID"|t }}.<br>
-[Устав](ustav-nonprofit-nationaltrails-russia.pdf?target=blank),
-[ОГРН](ogrn-nonprofit-nationaltrails-russia.pdf?target=blank),
-[ИНН](inn-nonprofit-nationaltrails-russia.pdf?target=blank).
+[Устав](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank),
+[ОГРН](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank),
+[ИНН](inn-nonprofit-nationaltrails-russia.pdf?target=_blank).
 
 
 
