@@ -16,7 +16,7 @@ Nonprofit organization for the creation and development of the National Trails S
 <p>Base camp: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
 {{ "SITE.ABOUT_ID"|t }}.<br>
-[Charter](ustav-nonprofit-nationaltrails-russia.pdf?target=blank),
+[Articles](ustav-nonprofit-nationaltrails-russia.pdf?target=blank),
 [Primary State Registration Number](ogrn-nonprofit-nationaltrails-russia.pdf?target=blank),
 [Taxpayer Identification Number](inn-nonprofit-nationaltrails-russia.pdf?target=blank).
 
