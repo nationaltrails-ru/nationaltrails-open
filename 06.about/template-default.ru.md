@@ -11,7 +11,8 @@ taxonomy:
 
 Автономная некоммерческая организация становления и развития Системы Национальных Троп (АНО «Национальные Тропы») создана 10 октября 2017 года. Учредитель — Кирилл Аристов ([kirillaristov.com](https://kirillaristov.com)).
 
-<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a></p>
+<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a><br>
+{{ "SITE.CONTACTS.AVAILABLE"|t }}</p>
 
 <p>Базовый лагерь: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
