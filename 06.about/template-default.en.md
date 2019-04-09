@@ -15,7 +15,8 @@ We create the National Trails System. We explore the Rivers and Territories of R
 
 <p>Base camp: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
-<p>{{ "SITE.ABOUT_ID"|t }}.[Articles](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank), [Primary State Registration Number](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), [Taxpayer Identification Number](inn-nonprofit-nationaltrails-russia.pdf?target=_blank).</p>
+<p>{{ "SITE.ABOUT_ID"|t }}.
+[Articles](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank), [Primary State Registration Number](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), [Taxpayer Identification Number](inn-nonprofit-nationaltrails-russia.pdf?target=_blank).</p>
 
 
 
