@@ -9,9 +9,9 @@ taxonomy:
 
 We create the National Trails System. We explore the Rivers and Territories of Russia. We sponsor explorers.
 
-Nonprofit organization for the creation and development of the National Trails System «National Trails» was formed October 10, 2017. The Founder – [Kirill Aristov](https://kirillaristov.com).
+*Nonprofit organization for the creation and development of the National Trails System «National Trails»* was formed October 10, 2017. The Founder – [Kirill Aristov](https://kirillaristov.com).
 
-<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a>: {{ "SITE.CONTACTS.AVAILABLE"|t }}</p>
+<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a> ({{ "SITE.CONTACTS.AVAILABLE"|t }})</p>
 
 <p>Base camp: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
