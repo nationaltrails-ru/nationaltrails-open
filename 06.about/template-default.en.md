@@ -15,7 +15,7 @@ We create the National Trails System. We explore the Rivers and Territories of R
 
 <p>Base camp: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
-[Primary State Registration Number 1175000006235](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), [Taxpayer Identification Number/Tax Registration Reason Code 5050135806/505001001](inn-nonprofit-nationaltrails-russia.pdf?target=_blank), All-Russian Classifier of Enterprises and Organizations 21596050. [Articles](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank).
+Primary State Registration Number [1175000006235](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), Taxpayer Identification Number/Tax Registration Reason Code [5050135806](inn-nonprofit-nationaltrails-russia.pdf?target=_blank)/505001001, All-Russian Classifier of Enterprises and Organizations 21596050. [Articles of organization](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank).
 
 
 

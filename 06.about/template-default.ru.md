@@ -15,7 +15,7 @@ taxonomy:
 
 <p>Базовый лагерь: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
-<p>{{ "SITE.ABOUT_ID"|t }}. [Устав](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank), [ОГРН](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), [ИНН](inn-nonprofit-nationaltrails-russia.pdf?target=_blank).</p>
+ОГРН [1175000006235](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank), ИНН/КПП [5050135806](inn-nonprofit-nationaltrails-russia.pdf?target=_blank)/505001001, ОКПО 21596050. [Устав организации](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank).
 
 
 
