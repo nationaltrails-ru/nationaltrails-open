@@ -11,8 +11,6 @@ taxonomy:
 
 *Автономная некоммерческая организация становления и развития Системы Национальных Троп (АНО «Национальные Тропы»)* создана 10 октября 2017 года. Учредитель — [Кирилл Аристов](https://kirillaristov.com).
 
-<p><a href="tel:{{ "SITE.CONTACTS.PHONE"|t|replace({' ': ''}) }}">{{ "SITE.CONTACTS.PHONE"|t }}</a> ({{ "SITE.CONTACTS.AVAILABLE"|t }})</p>
-
 <p>Базовый лагерь: {{ "SITE.CONTACTS.ADDRESS"|t }}.</p>
 
 <small>[ОГРН](ogrn-nonprofit-nationaltrails-russia.pdf?target=_blank) 1175000006235, [ИНН](inn-nonprofit-nationaltrails-russia.pdf?target=_blank)/КПП 5050135806/505001001, ОКПО 21596050, [Устав организации](ustav-nonprofit-nationaltrails-russia.pdf?target=_blank).</small>
